@@ -1,0 +1,13 @@
+.header_contenedor{
+    width: 100%;    
+    background-color: #5b5b5b;
+    height: 70px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.header_titutlo{
+    margin: 0;
+}

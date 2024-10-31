@@ -1,0 +1,9 @@
+.effectcontainer{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 40px;
+}

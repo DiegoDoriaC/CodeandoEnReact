@@ -1,0 +1,19 @@
+.statecontainer{
+    width: 100%;
+    height: 800px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    font-size: 40px;
+}
+
+.btn{
+    transform: scale(2.7);
+    margin: 0 40px;
+    cursor: pointer;
+}
+
+.btn2{
+    margin: 0 60px;
+}
